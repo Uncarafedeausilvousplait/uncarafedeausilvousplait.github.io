@@ -7,7 +7,7 @@ permalink: /about/
 <!-- insert  description from resume here, maybe spice it up a bit -->
 Welcome to my portfolio!
 
-For my resume, click [here](https://uncarafedeausilvousplait.github.io/Resume.md)
+For my resume, click [here](https://uncarafedeausilvousplait.github.io/Resume)
 
 ## As for the layout of the site...
 

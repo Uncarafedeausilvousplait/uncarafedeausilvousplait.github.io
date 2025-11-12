@@ -1,0 +1,17 @@
+---
+layout: post
+title: Building an eportfolio – Standing on the Shoulders of Giants
+categories: Portfolio
+---
+
+If there’s one thing I’ve learned about tech in the past year or so, it’s that shortcuts are amazing. Throughout every course I’ve ever taken, it was drilled into my head that you have to do things from scratch, that the only way to really learn how something works is to go all the way down to the fundamentals and build upward piece by piece. Somehow it never occurred to me to ask why we weren’t learning to code in assembly if that was the case.
+
+As I returned to tech after a few years away, the initial urge was to do as I had been trained, to build everything by myself, from scratch. But this time, a little voice had awoken in the back of my mind, one that responded to a lot of thing with one refrain. “You could build everything you want yourself, you could do that. But why? Why would you do that, why would you do any of that?” And eventually I sat down with that voice in my head and said “listen, voice, I readily admit that people have already figured out what I’m struggling to learn, and I know that everybody is expected to use the tools at their disposal, and I know that I google HTML portfolio theme and I get 10 trillion results, but… what was my point again?”
+
+And so it came to pass that I started using the resources other people have created. I don’t do it on everything, I still agree that sometimes you need a complete understanding of how something works at every level, but some things are so prevalent that not availing yourself of templates and tutorials is just wasting everyone’s time. It’s like cooking – some meals and ingredients should be made from scratch, but imagine you want to make smores so you make your own graham crackers and marshmallows. The shortcut is right there, use it.
+
+In that vein, the first question to answer with this portfolio is where to host it. I poked at Adobe free tier, but every review I read agreed that it was a horrific experience avoiding loopholes and dodging obstacles to keep the service free. After deliberating, I had just about settled on Digital Ocean droplets, and while that seemed just about perfect, I wondered if there was a way to simplify the rest of the process – reserving a domain, maintaining the server, that sort of thing. And to my surprise, I found that the humble and ubiquitous github had just what I was looking for in their github webpages. Now I had my starting point.
+
+It seemed best to start with a sample site, one that isn’t the portfolio, but more of a test run. So I grabbed a template, sent it to github, and deployed it as a static site. Then it’s just a matter of following the template – taking their example posts and making my posts like it. I almost forgot to modify the about section to point to my contact information, but outside of that, everything went smoothly.
+
+The best part about all of this is that even the thing I was worried about didn’t even happen. You can get just as much knowledge from examining something that works to learn how as you do by building something from scratch to make it work. I now have a functional knowledge of markdown, a better understanding of github workflow, and a familiarity with ruby. And best of all, I have an actual portfolio now, ready to document all of my adventures and misadventures in tech.

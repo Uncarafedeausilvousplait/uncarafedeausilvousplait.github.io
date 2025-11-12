@@ -14,4 +14,6 @@ In that vein, the first question to answer with this portfolio is where to host 
 
 It seemed best to start with a sample site, one that isn’t the portfolio, but more of a test run. So I grabbed a template, sent it to github, and deployed it as a static site. Then it’s just a matter of following the template – taking their example posts and making my posts like it. I almost forgot to modify the about section to point to my contact information, but outside of that, everything went smoothly.
 
+Even uploading my resume onto the site turned out to be simpler than I expected. I was expecting to either painstakingly recreate it in markdown, or to find a tool to handle the conversion. Turns out you can just export to markdown, something I had never had to do before and didn't realize was an option.
+
 The best part about all of this is that even the thing I was worried about didn’t even happen. You can get just as much knowledge from examining something that works to learn how as you do by building something from scratch to make it work. I now have a functional knowledge of markdown, a better understanding of github workflow, and a familiarity with ruby. And best of all, I have an actual portfolio now, ready to document all of my adventures and misadventures in tech.

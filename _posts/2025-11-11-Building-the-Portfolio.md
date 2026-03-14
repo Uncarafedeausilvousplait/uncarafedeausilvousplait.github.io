@@ -4,7 +4,7 @@ title: Building an eportfolio – Standing on the Shoulders of Giants
 categories: Portfolio
 ---
 
-If there’s one thing I’ve learned about tech in the past year or so, it’s that shortcuts are amazing. Throughout every course I’ve ever taken, it was drilled into my head that you have to do things from scratch, that the only way to really learn how something works is to go all the way down to the fundamentals and build upward piece by piece. Somehow it never occurred to me to ask why we weren’t learning to code in assembly if that was the case.
+If there’s one thing I’ve learned about tech in the past year or so, it’s that shortcuts are amazing. Throughout every course I’ve ever taken, it was drilled into my head that you have to do things from scratch, that the only way to really learn how something works is to go all the way down to the fundamentals and build upward piece by piece. Somehow it never occurred to me to ask why we weren’t learning to code in assembly if that was the case.  
 
 As I returned to tech after a few years away, the initial urge was to do as I had been trained, to build everything by myself, from scratch. But this time, a little voice had awoken in the back of my mind, one that responded to a lot of thing with one refrain. “You could build everything you want yourself, you could do that. But why? Why would you do that, why would you do any of that?” And eventually I sat down with that voice in my head and said “listen, voice, I readily admit that people have already figured out what I’m struggling to learn, and I know that everybody is expected to use the tools at their disposal, and I know that I google HTML portfolio theme and I get 10 trillion results, but… what was my point again?”
 

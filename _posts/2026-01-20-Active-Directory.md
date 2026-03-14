@@ -4,7 +4,7 @@ title: How to Set Up an Active Directory Homelab
 categories: Portfolio
 ---
 
-When it comes to directory services, Active Directory is king. Doesn’t matter how you feel about it, doesn’t matter how big your system is, it’s the industry standard for a reason, and if you’ve ever used a windows computer in a corporate environment, you’ve almost certainly used one authenticated and authorized through Active Directory. I’ve worked with AD plenty of times, of course, but I hadn’t set one up from scratch before. Here’s how you do it.
+When it comes to directory services, Active Directory is king. Doesn’t matter how you feel about it, doesn’t matter how big your system is, it’s the industry standard for a reason, and if you’ve ever used a windows computer in a corporate environment, you’ve almost certainly used one authenticated and authorized through Active Directory. I’ve worked with AD plenty of times, of course, but I hadn’t set one up from scratch before. Here’s how you do it.  
 
 First, you need a good virtualization program. The two best options I knew of for this purpose were VMWare and Oracle’s VirtualBox. I took one look at Broadcomm’s abysmal portal and decided VMWare could wait, resolving to try VirtualBox first. I wanted this to be completely free and local, but if you’re willing, you can try windows server on azure as well – just go to [this link](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025) for the microsoft server information and instead of downloading the iso, try it in azure instead. 
 

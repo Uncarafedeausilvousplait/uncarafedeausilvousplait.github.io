@@ -2,10 +2,11 @@
 layout: post
 title: Backing up a Dying Phone - Good Beats Unfinished Perfect Every Time
 categories: Portfolio
+excerpt_separator: <!-- excerpt -->
 ---
 
 When you work in tech, one of the most dangerous things to happen to your workflow is the siren song of the perfect implementation. It’s easy to spend so much time researching the best way to do something that you forget to actually do it, especially when there’s no looming deadline to force your hand. The danger is that a problem will arise and you’ll need your implementation already in place and then you’re really in trouble.  
-
+<!-- excerpt -->
 That’s what happened to me when my phone started dying – the LCD began to leak, becoming a slowly expanding black hole that would make my phone unusable within 24 hours. Had I been diligent, I would’ve already had a backup solution in place and most of my data already safe, so all I would’ve needed to do was run a final sync, give my phone a proper funeral, and start shopping for a replacement. Unfortunately, I had been so focused on which solution was the perfect fit for my needs, balancing price, transparency, ease of access, etc, that I hadn’t gotten around to implementing it, and that meant that I had to move very quickly before I lost everything on my phone. In doing so, I learned more than just the importance of not letting the perfect get in the way of the good. I also learned a few important lessons about what to do when a crisis hits you’re not remotely equipped for.
 
 First, the obvious: Settle for “good enough.” If you got into this mess by obsessing over the perfect way to do something, your first step is to stop digging that hole and take a practical step forward. It doesn’t matter if it’s perfect, all that matters is you’re moving in the right direction. In my case, that was realizing that I couldn’t trust myself to set up a proper backup service on my dying phone – I would need to back it up manually. It’s undoubtedly worse than syncthing or the like, but I knew I could pull data much more simply than I could set up a new service.
